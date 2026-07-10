@@ -1,2 +1,2 @@
-# CodeAlpha_RandomQuoteGenerator
-Quote generator
+code_project
+Drug formulation case study
